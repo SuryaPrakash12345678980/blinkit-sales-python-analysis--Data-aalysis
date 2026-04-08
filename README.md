@@ -29,3 +29,4 @@ item categories, and fat content analysis.
   locations, and item categories
 - Identified top performing item types and outlets
 - Visualized year-wise sales growth trends
+- SQL Server (Data Cleaning, KPIs, PIVOT queries)
